@@ -1,0 +1,6 @@
+Jaka jest stolica Francji?;;1;;Data\photos\Qmark.png;;true;;Paryż
+Jaka jest stolica Polski?;;1;;Data\photos\Qmark.png;;false;;Warszawa;;Sosnowiec;;Radom;;Białystok
+Jaka jest stolica Niemiec?;;3;;Data\photos\Qmark.png;;false;;Hamburg;;Monachium;;Berlin;;Kolonia
+Jaka jest stolica Rosji?;;1;;Data\photos\Qmark.png;;false;;Moskwa;;Petersburg;;Wołgograd;;Leningrad
+Jaka jest stolica Hiszpanii?;;1;;Data\photos\Qmark.png;;true;;Madryt
+Które miasto jest stolicą Włoch?;;4;;Data\photos\Qmark.png;;false;;Turyn;;Mediolan;;Neapol;;Rzym

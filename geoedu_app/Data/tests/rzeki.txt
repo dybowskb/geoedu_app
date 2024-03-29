@@ -1,0 +1,4 @@
+Jaką nazwę ma najdłuższa rzeka na świecie?;;2;;Data\photos\Qmark.png;;false;;Wisła;;Nil;;Amazonka;;Dunaj
+Jaka jest najdłuższa rzeka w Polsce?;;1;;Data\photos\Qmark.png;;true;;Wisła
+Na jakim kontynencie znajduje się rzeka Amazonka?;;1;;Data\photos\Qmark.png;;false;;Ameryka Południowa;;Europa;;Azja;;Afryka
+Jak nazywa się najdłuższa rzeka w Europie?;;3;;Data\photos\Qmark.png;;false;;Dniepr;;Ren;;Wołga;;Loara

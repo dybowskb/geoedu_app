@@ -1,0 +1,14 @@
+Jaka jest stolica Francji?;;1;;Data\photos\Qmark.png;;true;;Paryż
+Jaki kraj oznaczono numerem 10?;;3;;Data\photos\mapa.jpg;;false;;Watykan;;Francja;;Irlandia;;Rumunia
+Jaką nazwę ma najdłuższa rzeka na świecie?;;2;;Data\photos\Qmark.png;;false;;Wisła;;Nil;;Amazonka;;Dunaj
+Jaki kraj oznaczono numerem 4?;;2;;Data\photos\mapa.jpg;;false;;Białoruś;;Polska;;Litwa;;Bułgaria
+Jaka jest stolica Polski?;;1;;Data\photos\Qmark.png;;false;;Warszawa;;Sosnowiec;;Radom;;Białystok
+Jaki kraj oznaczono numerem 7?;;1;;Data\photos\mapa.jpg;;false;;Włochy;;Polska;;Niemcy;;Rumunia
+Jaka jest stolica Niemiec?;;3;;Data\photos\Qmark.png;;false;;Hamburg;;Monachium;;Berlin;;Kolonia
+Jaka jest stolica Rosji?;;1;;Data\photos\Qmark.png;;false;;Moskwa;;Petersburg;;Wołgograd;;Leningrad
+Jaka jest stolica Hiszpanii?;;1;;Data\photos\Qmark.png;;true;;Madryt
+Jaki kraj oznaczono numerem 9?;;1;;Data\photos\mapa.jpg;;true;;Norwegia
+Które miasto jest stolicą Włoch?;;4;;Data\photos\Qmark.png;;false;;Turyn;;Mediolan;;Neapol;;Rzym
+Jaka jest najdłuższa rzeka w Polsce?;;1;;Data\photos\Qmark.png;;true;;Wisła
+Na jakim kontynencie znajduje się rzeka Amazonka?;;1;;Data\photos\Qmark.png;;false;;Ameryka Południowa;;Europa;;Azja;;Afryka
+Jak nazywa się najdłuższa rzeka w Europie?;;3;;Data\photos\Qmark.png;;false;;Dniepr;;Ren;;Wołga;;Loara

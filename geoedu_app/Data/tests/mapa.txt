@@ -1,0 +1,4 @@
+Jaki kraj oznaczono numerem 10?;;3;;Data\photos\mapa.jpg;;false;;Watykan;;Francja;;Irlandia;;Rumunia
+Jaki kraj oznaczono numerem 4?;;2;;Data\photos\mapa.jpg;;false;;Białoruś;;Polska;;Litwa;;Bułgaria
+Jaki kraj oznaczono numerem 7?;;1;;Data\photos\mapa.jpg;;false;;Włochy;;Polska;;Niemcy;;Rumunia
+Jaki kraj oznaczono numerem 9?;;1;;Data\photos\mapa.jpg;;true;;Norwegia
