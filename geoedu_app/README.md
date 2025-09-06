@@ -71,4 +71,5 @@ Wykorzystane w programie biblioteki:
 
 
 # Autorzy
-Bartosz Dybowski, Grzegorz Sawicki, Michał Janaszewski, Michał Ciechan
+
+Bartosz Dybowski (SM), Grzegorz Sawicki (PO), Michał Janaszewski, Michał Ciechan
